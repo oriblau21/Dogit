@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "806074553556",
+    "firebase_url": "https://dogit-62f86.firebaseio.com",
+    "project_id": "dogit-62f86",
+    "storage_bucket": "dogit-62f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806074553556:android:138d475596c8907b",
+        "android_client_info": {
+          "package_name": "com.sagi.ori.dogit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806074553556-j2ec2m4m0pbqdqtdd63l9vvjjtit563t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivNui1NAAQcVsddkNIbfi1DbxTkPTiaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

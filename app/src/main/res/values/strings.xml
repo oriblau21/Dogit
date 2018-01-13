@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Dogit</string>
+    <string name="app_name">Dogit</string><string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="fire">OK</string>
+
+
+
+    <string name="dialog_addDS">The Dog Sitter Added Successfully</string>
+    <string name="dialog_addOwner">The Dog Owner Added Successfully</string>
 </resources>
+
