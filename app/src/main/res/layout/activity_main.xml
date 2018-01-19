@@ -6,5 +6,5 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:id="@+id/main_container"
-    tools:context="nati.aviran.getbs.MainActivity">
+    tools:context="com.sagi.ori.dogit.MainActivity">
 </LinearLayout>

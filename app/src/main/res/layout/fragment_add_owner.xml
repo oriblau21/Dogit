@@ -40,7 +40,7 @@
             android:textSize="18sp" />
 
         <EditText
-            android:id="@+id/addPwnerEmailTv"
+            android:id="@+id/addOwnerEmailTv"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"/>
@@ -128,7 +128,7 @@
 
 
         <Button
-            android:id="@+id/addOnwerAddBtn"
+            android:id="@+id/addOwnerAddBtn"
             android:layout_width="1dp"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
